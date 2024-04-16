@@ -18,6 +18,7 @@
     }
   ],
   "dependencies": {
+    "@notionhq/client": "^2.2.15",
     "@raycast/api": "^1.71.3"
   },
   "devDependencies": {
